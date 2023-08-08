@@ -1,0 +1,34 @@
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.deps.json
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.dll
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.pdb
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Application.dll
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Core.dll
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Application.pdb
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Core.pdb
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.CopyComplete
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.dll
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\refint\CleanArch.Infrastructure.dll
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.pdb
+C:\Prasanth- Do not delete\projects\WebAPI\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\ref\CleanArch.Infrastructure.dll
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.deps.json
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.dll
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.pdb
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Application.dll
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Core.dll
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Application.pdb
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Core.pdb
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.AssemblyInfo.cs
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.CopyComplete
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.dll
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\refint\CleanArch.Infrastructure.dll
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.pdb
+D:\Downloads\BKP\Final-Code-Tested\WEB-API\6\CleanArchitecture\CleanArch.API\CleanArch.Infrastructure\obj\Debug\net7.0\ref\CleanArch.Infrastructure.dll
